@@ -18,14 +18,19 @@ Welcome to **Weather App**—where Python meets the skies to fetch you live weat
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/YourUsername/weather-app.git
-   cd weather-app
+   git clone https://github.com/PrathamSapra/WeatherApp.git
+   cd WeatherApp
    ```
 
 2. **Install the dependencies**:
    - You'll need a few Python packages to run the app. Just install them with:
      ```bash
-     pip install -r requirements.txt
+     #pip install geopy
+      #pip install timezonefinder
+      #pip install pytz
+      #pip install Pillow
+      #pip install requests
+
      ```
    
    You’ll need the following:
