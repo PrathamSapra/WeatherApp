@@ -4,7 +4,13 @@
 Welcome to **Weather App**—where Python meets the skies to fetch you live weather updates! 🌤️ Whether you're planning a beach day or just want to check if it's sweater weather, this app has you covered. And if things go wrong... well, you'll get an entertaining GIF! 😜
 
 ---
+## 👀 Screenshots
 
+![image](https://github.com/user-attachments/assets/102e13f4-193f-491d-84aa-549dead102ff)
+
+![image](https://github.com/user-attachments/assets/65cd97a4-2394-4520-84a9-3deccfb42182)
+
+---
 ## 🌟 Features
 
 - **Live Weather Updates**: Enter any city, and boom 💥, you get the current temperature, humidity, wind speed, and more!
@@ -99,3 +105,5 @@ If you like this project, give it a ⭐ on GitHub and feel free to fork or contr
 ---
 
 Made with 💻 and a dash of fun by Pratham Sapra 👨‍💻
+
+
